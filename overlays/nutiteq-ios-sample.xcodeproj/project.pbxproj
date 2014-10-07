@@ -9,10 +9,6 @@
 /* Begin PBXBuildFile section */
 		0C1FFD5619E1C08B006E9AF2 /* osmbright3d.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0C1FFD5019E1C08B006E9AF2 /* osmbright3d.zip */; };
 		0C1FFD6619E1DC75006E9AF2 /* berlin_ntvt.mbtiles in Resources */ = {isa = PBXBuildFile; fileRef = 0C1FFD6519E1DC75006E9AF2 /* berlin_ntvt.mbtiles */; };
-		0C1FFD6B19E2BAE3006E9AF2 /* pirates.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0C1FFD6719E2BAE3006E9AF2 /* pirates.zip */; };
-		0C1FFD6C19E2BAE3006E9AF2 /* basic.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0C1FFD6819E2BAE3006E9AF2 /* basic.zip */; };
-		0C1FFD6D19E2BAE3006E9AF2 /* highcontrast.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0C1FFD6919E2BAE3006E9AF2 /* highcontrast.zip */; };
-		0C1FFD6E19E2BAE3006E9AF2 /* looseleaf.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0C1FFD6A19E2BAE3006E9AF2 /* looseleaf.zip */; };
 		0C1FFD7319E3FAC2006E9AF2 /* osmbright_ru.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0C1FFD7019E3FAC2006E9AF2 /* osmbright_ru.zip */; };
 		0C1FFD7419E3FAC2006E9AF2 /* osmbright_he.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0C1FFD7119E3FAC2006E9AF2 /* osmbright_he.zip */; };
 		0C1FFD7519E3FAC2006E9AF2 /* osmbright_en.zip in Resources */ = {isa = PBXBuildFile; fileRef = 0C1FFD7219E3FAC2006E9AF2 /* osmbright_en.zip */; };
@@ -42,10 +38,6 @@
 /* Begin PBXFileReference section */
 		0C1FFD5019E1C08B006E9AF2 /* osmbright3d.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = osmbright3d.zip; sourceTree = "<group>"; };
 		0C1FFD6519E1DC75006E9AF2 /* berlin_ntvt.mbtiles */ = {isa = PBXFileReference; lastKnownFileType = file; path = berlin_ntvt.mbtiles; sourceTree = "<group>"; };
-		0C1FFD6719E2BAE3006E9AF2 /* pirates.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = pirates.zip; sourceTree = "<group>"; };
-		0C1FFD6819E2BAE3006E9AF2 /* basic.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = basic.zip; sourceTree = "<group>"; };
-		0C1FFD6919E2BAE3006E9AF2 /* highcontrast.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = highcontrast.zip; sourceTree = "<group>"; };
-		0C1FFD6A19E2BAE3006E9AF2 /* looseleaf.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = looseleaf.zip; sourceTree = "<group>"; };
 		0C1FFD7019E3FAC2006E9AF2 /* osmbright_ru.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = osmbright_ru.zip; sourceTree = "<group>"; };
 		0C1FFD7119E3FAC2006E9AF2 /* osmbright_he.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = osmbright_he.zip; sourceTree = "<group>"; };
 		0C1FFD7219E3FAC2006E9AF2 /* osmbright_en.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = osmbright_en.zip; sourceTree = "<group>"; };
@@ -99,10 +91,6 @@
 		2A319B36187C4F8F0004A3CB = {
 			isa = PBXGroup;
 			children = (
-				0C1FFD6719E2BAE3006E9AF2 /* pirates.zip */,
-				0C1FFD6819E2BAE3006E9AF2 /* basic.zip */,
-				0C1FFD6919E2BAE3006E9AF2 /* highcontrast.zip */,
-				0C1FFD6A19E2BAE3006E9AF2 /* looseleaf.zip */,
 				0C1FFD6519E1DC75006E9AF2 /* berlin_ntvt.mbtiles */,
 				2AEA4FAB19140909002ED69F /* arrow.png */,
 				0C1FFD5019E1C08B006E9AF2 /* osmbright3d.zip */,
@@ -232,8 +220,6 @@
 				2A16AB941905FFDE00DE7F8D /* Main.storyboard in Resources */,
 				2AD24F6818FED992000969F4 /* saku_ios_4bpp.nmldb in Resources */,
 				0C1FFD7319E3FAC2006E9AF2 /* osmbright_ru.zip in Resources */,
-				0C1FFD6B19E2BAE3006E9AF2 /* pirates.zip in Resources */,
-				0C1FFD6C19E2BAE3006E9AF2 /* basic.zip in Resources */,
 				2A710BBE191956CC00647B81 /* info@2x.png in Resources */,
 				0C1FFD7419E3FAC2006E9AF2 /* osmbright_he.zip in Resources */,
 				2A710BC019196AD100647B81 /* arrow@2x.png in Resources */,
@@ -241,13 +227,11 @@
 				2AD24F7C18FEDAA6000969F4 /* nutiteq-ios-sample-Info.plist in Resources */,
 				0C1FFD5619E1C08B006E9AF2 /* osmbright3d.zip in Resources */,
 				0C1FFD7519E3FAC2006E9AF2 /* osmbright_en.zip in Resources */,
-				0C1FFD6E19E2BAE3006E9AF2 /* looseleaf.zip in Resources */,
 				2AEA4FAC19140909002ED69F /* arrow.png in Resources */,
 				2AB2803418EB150400666197 /* marker.png in Resources */,
 				0C1FFD6619E1DC75006E9AF2 /* berlin_ntvt.mbtiles in Resources */,
 				2AD24F8018FEDB5C000969F4 /* InfoPlist.strings in Resources */,
 				2AEA4FA61913F38C002ED69F /* info.png in Resources */,
-				0C1FFD6D19E2BAE3006E9AF2 /* highcontrast.zip in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
